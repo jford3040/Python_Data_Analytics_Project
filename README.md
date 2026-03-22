@@ -118,7 +118,7 @@ plt.show()
 ### Results
 
 ![Trending Top Skills for Data Analysts in the US](3_Project/images/skills_trend_DA.png)  
-*Bar graph visualizing the trending top skills for data analysts in the US in 2023.*
+*Line graph visualizing the trending top skills for data analysts in the US in 2023.*
 
 ### Insights:
 - SQL remains the most consistently demanded skill throughout the year, although it shows a gradual decrease in demand.
